@@ -171,8 +171,8 @@ For high-performance databases, FlyWP enables binary logging (binlog) optimizati
 [youtube https://www.youtube.com/watch?v=n5tND8CaWkM&t=16s&pp=ygUFZmx5d3A%3D] 
 
 
-###Can’t Find Your Desired Feature? 
-Fee free to [Submit ideas here.](https://feedback.flywp.com/)
+### Can’t Find Your Desired Feature? 
+Feel free to [submit your ideas or feedback](https://feedback.flywp.com/)
 
 ## Support
 
